@@ -62,26 +62,15 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Fadhilah Dwi Ananda.</h2>;
-  const three = <h3 className="big-heading">I build things for the web and apps.</h3>;
+  const three = <h3 className="big-heading">I build things for web and apps.</h3>;
   const four = (
     <>
       <p>
-        I am an experienced front-end developer with over 2+ years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js{' '}
-        {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a> */}
-        .
+        My main focus at the moment is website &amp; mobile app development.
       </p>
     </>
   );
   const five = (
-    // <a
-    //   className="email-link"
-    //   href=""
-    //   target="_blank"
-    //   rel="noreferrer">
-    //   Check out my course!
-    // </a>
     <Link
       to="/#contact"
       className="email-link"
