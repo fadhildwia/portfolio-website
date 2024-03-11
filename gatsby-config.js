@@ -5,9 +5,9 @@ module.exports = {
     title: 'Fadhilah Dwi Ananda',
     description:
       'I am an experienced front-end developer with over 2+ years of experience in the field. I specialize in designing and developing visually appealing and responsive user interfaces. My expertise in JavaScript and TypeScript, as well as frameworks like React Js, Next Js, React Native, and Node.js.',
-    siteUrl: 'https://fadhildwia.vercel.app/', // No trailing slash allowed!
+    siteUrl: 'https://fadhilahdwia.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    // twitterUsername: '@bchiang7',
+    // twitterUsername: '@fadhildwia',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
